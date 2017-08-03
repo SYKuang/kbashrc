@@ -2,7 +2,7 @@
 [ -f ~/.bash_theme ] && source $HOME/.bash_theme
 
 # Plugins
-[ -f ~/.kbashrc/plugins/fzf/.fzf.bash ] && source ~/.kbashrc/plugins/fzf/.fzf.bash
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
 [ -f ~/.kcmds/kcmds.sh ] && source ~/.kcmds/kcmds.sh
 [ -f ~/.kbashrc/plugins/autoenv/activate.sh ] && source ~/.kbashrc/plugins/autoenv/activate.sh
 
