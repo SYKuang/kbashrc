@@ -1,0 +1,6 @@
+[submodule "plugin/autoenv"]
+	path = plugins/autoenv
+	url = https://github.com/kennethreitz/autoenv.git
+[submodule "plugins/fzf"]
+	path = plugins/fzf
+	url = https://github.com/junegunn/fzf.git
